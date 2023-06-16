@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #5D3A3A;
+}
+
+.quadrado{
+    height: 500px;
+    width: 600px;
+    background-color: #B5E0BA;
+}
